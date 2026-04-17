@@ -7,5 +7,5 @@ Para instalar:
 
 se instala con: curl -sSL https://goo.su/uaC08 | bash
 
-### Este script es de código abierto y se mejora constantemente. ¡Las sugerencias, 
+Este script es de código abierto y se mejora constantemente. ¡Las sugerencias, 
 reportes de errores y contribuciones son más que bienvenidas!
