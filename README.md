@@ -35,7 +35,7 @@ Usta URL se "pega" dentro de la consola de Ubuntu estando ya como súperusuario 
 - Espacio: ~500 MB
 
 
-###¿Qué hace el script?
+### ¿Qué hace el script?
 Paso a paso
 - Verifica privilegios - Detecta usuario real (no root)
 - Elimina bloqueos - Limpia locks de apt
